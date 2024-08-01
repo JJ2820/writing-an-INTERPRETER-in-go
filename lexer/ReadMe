@@ -1,0 +1,1 @@
+Lexer (Tokenizer): Breaks down the source code into tokens, which are the basic elements like keywords, operators, literals, and identifiers.
