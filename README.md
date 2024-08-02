@@ -29,6 +29,7 @@ The evaluator walks the AST and evaluates the expressions.
 evaluation process of an interpreter defines how the programming language being interpreted works
 we’re going to represent every value we encounter when evaluating Monkey source code as an Object, an interface of our design. 
 Eval will take an ast.Node as input and return an object.Object
+refer the bok for more info
 
 
 
