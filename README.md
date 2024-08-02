@@ -34,3 +34,6 @@ Eval will take an ast.Node as input and return an object.Object
 
 
 # This interpreter is quite simple and only supports basic arithmetic operations without parentheses or operator precedence. However, it demonstrates the core concepts of lexing, parsing, and evaluating, which are foundational for more complex language implementations.
+
+
+Reference - [Book 1](https://interpreterbook.com/)
